@@ -1,6 +1,7 @@
 {
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Calibri",
   "cssTheme": "Border",
-  "accentColor": "#31323a"
+  "accentColor": "#31323a",
+  "theme": "moonstone"
 }
