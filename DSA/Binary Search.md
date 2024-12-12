@@ -121,10 +121,11 @@ public int leastElementGreaterThanValue(int [] arr, int val) {
 
 ### Problems
 
-| Problem Name                                                                                                                                  | Solution              |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?page=1&category=Binary%20Search&sortBy=submissions) | [[Minimum Platforms]] |
-| [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1)                                                                   | [[Aggressive Cows]]   |
+| Problem Name                                                                                                                                  | Solution                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?page=1&category=Binary%20Search&sortBy=submissions) | [[Minimum Platforms]]   |
+| [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1)                                                                   | [[Aggressive Cows]]     |
+| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)                                                         | [[Koko Eating Bananas]] |
 
 #### Resources
 https://leetcode.com/discuss/interview-question/4203773/Binary-Search-variations/
