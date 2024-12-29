@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Calibri",
-  "cssTheme": "Border",
-  "accentColor": "#31323a",
-  "theme": "moonstone"
+  "textFontFamily": "Attribute Text",
+  "cssTheme": "",
+  "accentColor": "#5567ec",
+  "theme": "obsidian"
 }
