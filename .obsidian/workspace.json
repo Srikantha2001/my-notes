@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/My Weather App.md",
+                "file": "DSA/Segment Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Weather App"
+              "title": "Segment Trees"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Leetcode",
+                "query": "tag:#Amazon ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,28 +232,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8fce9d95212454c3",
+  "active": "ebc54365eeddc131",
   "lastOpenFiles": [
-    "Spring Framework/Reactive Spring/Reactive Programming Paradigm.md",
-    "Projects/My Weather App.md",
-    "Projects",
-    "README.md",
-    "Things to Explore.md",
-    "DSA/Binary Search.md",
-    "DSA/Segment Trees.md",
     "DSA/Recursion.md",
+    "DSA/Dynamic Programming.md",
+    "DSA/Binary Search.md",
+    "DSA/Problems/Minimum Platforms.md",
+    "DSA/Problems/Koko Eating Bananas.md",
+    "Things to Explore.md",
+    "Untitled Kanban.md",
+    "README.md",
+    "DSA/Segment Trees.md",
+    "Projects/My Weather App.md",
+    "Spring Framework/Reactive Spring/Reactive Programming Paradigm.md",
+    "Projects",
     "resources/countGoodNumber.png",
     "resources",
     "Excalidraw/myBoard.md",
     "DSA/Problems/Kth Symbol in Grammar.md",
-    "DSA/Problems/Minimum Platforms.md",
     "DSA/Problems/Count Good Numbers.md",
     "Excalidraw",
     "Java/Streams API.md",
     "Kanban Board/Things to Explore.md",
     "Kanban Board/Leetcode patterns.md",
-    "Untitled Kanban.md",
-    "DSA/Problems/Koko Eating Bananas.md",
     "DSA/Resources.md",
     "Kanban Board",
     "Java/Effective Java/Creating and Destroying Object.md",

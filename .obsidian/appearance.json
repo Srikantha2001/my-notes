@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Attribute Text",
-  "cssTheme": "",
-  "accentColor": "#5567ec",
+  "cssTheme": "Border",
+  "accentColor": "#011083",
   "theme": "obsidian"
 }
